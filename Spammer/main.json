@@ -1,0 +1,9 @@
+{
+    "id": "41be9ce8-2a21-462f-8c65-66c86069eab2",
+    "name": "Spammer",
+    "description": "spams in chat use .helpspam for guide",
+    "author": "Streoids",
+    "main_class": "spam.lua",
+    "api_revision": 2,
+    "version": "1.0.0"
+}
