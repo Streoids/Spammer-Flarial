@@ -1,5 +1,5 @@
 name = "Spammer"
-description = "use .helpspam for more info"
+description = "use .helpspam for more info | using this this on public servers can get you muted use it at your own risk!!"
 author = "Streoids"
 
 local spamactive=false  
