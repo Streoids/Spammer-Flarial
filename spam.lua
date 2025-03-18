@@ -1,6 +1,7 @@
 name = "Spammer"
 description = "use .helpspam for more info"
 author = "Streoids"
+
 local spamactive=false  
 local spammessage="bombardiro-crocodilo"
 local spamdelay=1  
