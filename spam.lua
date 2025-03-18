@@ -62,7 +62,7 @@ function onLoad()
         print("§c.spam <time> <count> <msg>§r §ospams a specific amount of messages with <time> delay")
         print("§eDecimal numbers counts")
         print("     ")
-        print("§4!!! I made this for fun, I will not be responsible if you get banned/muted/kicked by using it on public servers.!!!")
+        print("§6!!! I made this for fun, I will not be responsible if you get banned/muted/kicked by using it on public servers.!!!")
     end)
 end
 onEvent("TickEvent", function()
